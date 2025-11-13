@@ -1,0 +1,7 @@
+/* App.css (optional, not required if using Tailwind) */
+
+body {
+  background-color: white;
+  margin: 0;
+  font-family: sans-serif;
+}
